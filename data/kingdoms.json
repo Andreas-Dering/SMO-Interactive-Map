@@ -1,4 +1,4 @@
 [
-    { "id": "hat", "name": "Hat Kingdom", "file": "data/hat.json"},
+    { "id": "cap", "name": "Cap Kingdom", "file": "data/cap.json"},
     { "id": "cascade", "name": "Cascade", "file": "data/cascade.json"}
 ]

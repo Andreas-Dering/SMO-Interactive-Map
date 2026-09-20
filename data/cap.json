@@ -1,0 +1,8 @@
+{
+    "image": "maps/cap.png",
+    "width": 2000,
+    "height": 1400,
+    "pois": [
+        { "id": "cap-lz-001", "x": 1000, "y": 700, "category": "loading-zone", "title": "This is the Title", "note": "Here are the Notes"}
+    ]
+}
