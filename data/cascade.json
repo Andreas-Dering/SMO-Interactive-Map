@@ -1,0 +1,8 @@
+{
+    "image": "maps/cascade.png",
+    "width": 2048,
+    "height": 2048,
+    "pois": [
+        { "id": "cascade-ha-001", "x": 1000, "y": 700, "category": "hintart", "title": "Hint Art", "note": "Here are the Notes"}
+    ]
+}
