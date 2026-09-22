@@ -1,4 +1,4 @@
-const map = L.map('map', {crs: L.CRS.Simple, minZoom: -1, maxZoom: 1, zoomControl: false });
+const map = L.map('map', {crs: L.CRS.Simple, minZoom: -1, maxZoom: 1, zoomControl: false, zoomSnap: 0.25 });
 const markerLayer = L.layerGroup().addTo(map);
 let overlay = null;
 let kingdoms = [];
@@ -12,6 +12,11 @@ const icons = {
     }),
     'hintart': L.icon({
         iconUrl: 'icons/hintart.png',
+        iconSize: [32,32],
+        iconAnchor: [16,16]
+    }),
+    'moon': L.icon({
+        iconUrl: 'icons/moon.png',
         iconSize: [32,32],
         iconAnchor: [16,16]
     })
@@ -48,6 +53,7 @@ async function showKingdom(entry) {
 
     const bounds = [[0, 0], [k.height, k.width]];
     overlay = L.imageOverlay(k.image, bounds).addTo(map);
+
     map.fitBounds(bounds);
     map.setMaxBounds(L.latLngBounds(bounds));
 

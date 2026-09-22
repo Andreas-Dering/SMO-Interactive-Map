@@ -1,4 +1,5 @@
 [
     { "id": "cap", "name": "Cap Kingdom", "file": "data/cap.json"},
-    { "id": "cascade", "name": "Cascade", "file": "data/cascade.json"}
+    { "id": "cascade", "name": "Cascade", "file": "data/cascade.json"},
+    { "id": "sand", "name": "Sand", "file": "data/sand.json"}
 ]

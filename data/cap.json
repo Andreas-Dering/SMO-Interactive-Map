@@ -3,6 +3,11 @@
     "width": 2048,
     "height": 2048,
     "pois": [
-        { "id": "cap-sa-001", "x": 1000, "y": 700, "category": "subarea", "title": "Sub Area", "note": "Here are the Notes"}
+        { "id": "cap-sa-01", "x": 780, "y": 1283, "category": "subarea", "title": "Frog", "note": "Everyone knows where this subarea is"},
+        { "id": "cap-sa-02", "x": 1491, "y": 1321, "category": "subarea", "title": "Orange", "note": "On top of the tower"},
+        { "id": "cap-sa-03", "x": 1569, "y": 1247, "category": "subarea", "title": "Paragoomba", "note": "Jump off from the top"},
+        { "id": "cap-sa-04", "x": 761, "y": 1168, "category": "subarea", "title": "Rolling On", "note": "Moon Pipe"},
+        { "id": "cap-mn-01", "x": 904, "y": 903, "category": "moon", "title": "Dark Side Hint Art", "note": "Ground pound on top of the slope"},
+        { "id": "cap-ha-01", "x": 991, "y": 1223, "category": "hintart", "title": "Moon Kingdom Hint Art", "note": "At the wall"}
     ]
 }
