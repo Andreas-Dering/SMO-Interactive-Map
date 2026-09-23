@@ -1,0 +1,8 @@
+{
+    "image": "maps/darkerside.png",
+    "width": 2048,
+    "height": 2048,
+    "pois": [
+        { "id": "darker-sa-01", "x": 1080, "y": 500, "category": "subarea", "title": "In the end", "note": ""}
+    ]
+}

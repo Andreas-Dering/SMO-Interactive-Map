@@ -1,0 +1,15 @@
+{
+    "image": "maps/lake.png",
+    "width": 2048,
+    "height": 2048,
+    "pois": [
+        { "id": "lake-sa-01", "x": 1684, "y": 676, "category": "subarea", "title": "Poison Waves", "note": "Moon Pipe"},
+        { "id": "lake-sa-02", "x": 556, "y": 1003, "category": "subarea", "title": "Puzzle", "note": "Under water inside the air bubble"},
+        { "id": "lake-sa-03", "x": 531, "y": 1546, "category": "subarea", "title": "Zipper", "note": "Red door behind the zipper"},
+        { "id": "lake-sa-04", "x": 261, "y": 1386, "category": "subarea", "title": "Shop", "note": "On the second floor inside the air bubble"},
+        { "id": "lake-sa-05", "x": 424, "y": 1605, "category": "subarea", "title": "Grab Climb", "note": ""},
+        { "id": "lake-mn-01", "x": 357, "y": 1415, "category": "moon", "title": "Dark Side Hint Art", "note": "Ground pound between the pillars on the first floor of the air bubble"},
+        { "id": "seaside-mn-01", "x": 309, "y": 1192, "category": "moon", "title": "Metro Kingdom Hint Art", "note": "Ground pound in the middle of the rectangle on the 3rd floor"},
+        { "id": "lake-ha-01", "x": 1326, "y": 919, "category": "hintart", "title": "Cascade Kingdom Hint Art", "note": ""}
+    ]
+}

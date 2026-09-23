@@ -1,0 +1,23 @@
+{
+    "image": "maps/darkside.png",
+    "width": 2048,
+    "height": 2048,
+    "pois": [
+        { "id": "dark-sa-01", "x": 498, "y": 167, "category": "subarea", "title": "Breakdown", "note": ""},
+        { "id": "dark-sa-02", "x": 1226, "y": 663, "category": "subarea", "title": "Magma Swamp", "note": ""},
+        { "id": "dark-sa-03", "x": 1293, "y": 855, "category": "subarea", "title": "Lava Rising", "note": ""},
+        { "id": "dark-sa-04", "x": 1356, "y": 825, "category": "subarea", "title": "Invisible", "note": "Capless door beneath the main area"},
+        { "id": "dark-sa-05", "x": 1326, "y": 825, "category": "subarea", "title": "Yoshi Siege", "note": "Moon pipe beneath the main area"},
+        { "id": "dark-sa-06", "x": 1428, "y": 983, "category": "subarea", "title": "Vanishing", "note": ""},
+        { "id": "dark-ha-01", "x": 1318, "y": 749, "category": "hintart", "title": "Dark Side Hint Art", "note": ""},
+        { "id": "dark-ha-02", "x": 1192, "y": 739, "category": "hintart", "title": "Dark Side Hint Art", "note": ""},
+        { "id": "dark-ha-03", "x": 1203, "y": 836, "category": "hintart", "title": "Dark Side Hint Art", "note": ""},
+        { "id": "dark-ha-04", "x": 1295, "y": 697, "category": "hintart", "title": "Dark Side Hint Art", "note": ""},
+        { "id": "dark-ha-05", "x": 1316, "y": 772, "category": "hintart", "title": "Dark Side Hint Art", "note": "At the wall beneath the main area"},
+        { "id": "dark-ha-06", "x": 1347, "y": 770, "category": "hintart", "title": "Dark Side Hint Art", "note": "At the base behind the binoculars"},
+        { "id": "dark-ha-07", "x": 1315, "y": 909, "category": "hintart", "title": "Dark Side Hint Art", "note": ""},
+        { "id": "dark-ha-08", "x": 1449, "y": 857, "category": "hintart", "title": "Dark Side Hint Art", "note": ""},
+        { "id": "dark-ha-09", "x": 1428, "y": 919, "category": "hintart", "title": "Dark Side Hint Art", "note": ""},
+        { "id": "dark-ha-10", "x": 1442, "y": 993, "category": "hintart", "title": "Dark Side Hint Art", "note": "On the floor"}
+    ]
+}

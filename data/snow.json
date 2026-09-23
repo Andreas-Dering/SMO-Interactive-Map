@@ -1,0 +1,18 @@
+{
+    "image": "maps/snow.png",
+    "width": 2048,
+    "height": 2048,
+    "pois": [
+        { "id": "snow-sa-01", "x": 1156, "y": 914, "category": "subarea", "title": "Clouds", "note": "Plant a seed"},
+        { "id": "snow-sa-02", "x": 1203, "y": 898, "category": "subarea", "title": "Capless", "note": "Down near the water"},
+        { "id": "snow-sa-03", "x": 1045, "y": 1392, "category": "subarea", "title": "Flower Road", "note": "Moon Pipe"},
+        { "id": "snow-sa-04", "x": 1372, "y": 1372, "category": "subarea", "title": "Tracewalking", "note": ""},
+        { "id": "snow-sa-05", "x": 634, "y": 1088, "category": "subarea", "title": "Rocket Flower", "note": ""},
+        { "id": "snow-sa-06", "x": 774, "y": 646, "category": "subarea", "title": "Puzzle", "note": "Down near the water, block needs to be blown away with a Tyfoo"},
+        { "id": "snow-sa-07", "x": 1562, "y": 1573, "category": "subarea", "title": "Iceburn Curcuit", "note": ""},
+        { "id": "snow-sa-08", "x": 934, "y": 1210, "category": "subarea", "title": "Shop", "note": "Inside Shiveria to the right"},
+        { "id": "snow-sa-09", "x": 934, "y": 1240, "category": "subarea", "title": "Outfit", "note": "Inside Shiveria on the upper floor on the right side next to the climbing pole"},
+        { "id": "snow-mn-01", "x": 914, "y": 1250, "category": "moon", "title": "Dark Side Hint Art", "note": "Inside the racing room, on top of the archway."},
+        { "id": "snow-ha-01", "x": 900, "y": 1185, "category": "hintart", "title": "Lost Kingdom Hint Art", "note": "Inside Shiveria, next to the pipe between the crates and boxes on the left wall."}
+    ]
+}

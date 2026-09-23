@@ -1,5 +1,19 @@
 [
     { "id": "cap", "name": "Cap Kingdom", "file": "data/cap.json"},
-    { "id": "cascade", "name": "Cascade", "file": "data/cascade.json"},
-    { "id": "sand", "name": "Sand", "file": "data/sand.json"}
+    { "id": "cascade", "name": "Cascade Kingdom", "file": "data/cascade.json"},
+    { "id": "sand", "name": "Sand Kingdom", "file": "data/sand.json"},
+    { "id": "lake", "name": "Lake Kingdom", "file": "data/lake.json"},
+    { "id": "wooded", "name": "Wooded Kingdom", "file": "data/wooded.json"},
+    { "id": "cloud", "name": "Cloud Kingdom", "file": "data/cloud.json"},
+    { "id": "lost", "name": "Lost Kingdom", "file": "data/lost.json"},
+    { "id": "metro", "name": "Metro Kingdom", "file": "data/metro.json"},
+    { "id": "snow", "name": "Snow Kingdom", "file": "data/snow.json"},
+    { "id": "seaside", "name": "Seaside Kingdom", "file": "data/seaside.json"},
+    { "id": "luncheon", "name": "Luncheon Kingdom", "file": "data/luncheon.json"},
+    { "id": "ruined", "name": "Ruined Kingdom", "file": "data/ruined.json"},
+    { "id": "bowsers", "name": "Bowsers Kingdom", "file": "data/bowsers.json"},
+    { "id": "moon", "name": "Moon Kingdom", "file": "data/moon.json"},
+    { "id": "mushroom", "name": "Mushroom Kingdom", "file": "data/mushroom.json"},
+    { "id": "darkside", "name": "Dark Side", "file": "data/darkside.json"},
+    { "id": "darkerside", "name": "Darker Side", "file": "data/darkerside.json"}
 ]
