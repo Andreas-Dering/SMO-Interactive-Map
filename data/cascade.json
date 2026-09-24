@@ -3,8 +3,8 @@
     "width": 2048,
     "height": 2048,
     "pois": [
-        { "id": "cascade-mn-01", "x": 1306, "y": 547, "category": "moon", "title": "Lake Kingdom Hint Art", "note": ""},
-        { "id": "cascade-mn-02", "x": 821, "y": 1629, "category": "moon", "title": "Dark Side Hint Art", "note": "Ground pound at the top of the hill"},
+        { "id": "cascade-mn-01", "x": 1306, "y": 547, "category": "moon", "title": "Lake Kingdom Hint Art Moon", "note": ""},
+        { "id": "cascade-mn-02", "x": 821, "y": 1629, "category": "moon", "title": "Dark Side Hint Art Moon", "note": "Ground pound at the top of the hill"},
         { "id": "cascade-sa-01", "x": 922, "y": 973, "category": "subarea", "title": "Windy", "note": "Moon Pipe"},
         { "id": "cascade-sa-02", "x": 973, "y": 657, "category": "subarea", "title": "Dino", "note": "Down at the back"},
         { "id": "cascade-sa-03", "x": 764, "y": 1473, "category": "subarea", "title": "Chain Chomp", "note": "Beneath the arena"},

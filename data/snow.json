@@ -12,7 +12,7 @@
         { "id": "snow-sa-07", "x": 1562, "y": 1573, "category": "subarea", "title": "Iceburn Curcuit", "note": ""},
         { "id": "snow-sa-08", "x": 934, "y": 1210, "category": "subarea", "title": "Shop", "note": "Inside Shiveria to the right"},
         { "id": "snow-sa-09", "x": 934, "y": 1240, "category": "subarea", "title": "Outfit", "note": "Inside Shiveria on the upper floor on the right side next to the climbing pole"},
-        { "id": "snow-mn-01", "x": 914, "y": 1250, "category": "moon", "title": "Dark Side Hint Art", "note": "Inside the racing room, on top of the archway."},
+        { "id": "snow-mn-01", "x": 914, "y": 1250, "category": "moon", "title": "Dark Side Hint Art Moon", "note": "Inside the racing room, on top of the archway."},
         { "id": "snow-ha-01", "x": 900, "y": 1185, "category": "hintart", "title": "Lost Kingdom Hint Art", "note": "Inside Shiveria, next to the pipe between the crates and boxes on the left wall."}
     ]
 }

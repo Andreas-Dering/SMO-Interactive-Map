@@ -4,7 +4,7 @@
     "height": 2048,
     "pois": [
         { "id": "sand-ha-01", "x": 1131, "y": 493, "category": "hintart", "title": "Bowser Kingdom Hint Art", "note": ""},
-        { "id": "sand-mn-01", "x": 1388, "y": 1793, "category": "moon", "title": "Wooded Kingdom Hint Art", "note": "In front of the bushes"},
+        { "id": "sand-mn-01", "x": 1388, "y": 1793, "category": "moon", "title": "Wooded Kingdom Hint Art Moon", "note": "In front of the bushes"},
         { "id": "sand-sa-01", "x": 1013, "y": 330, "category": "subarea", "title": "Moving Platform", "note": "Moon Pipe"},
         { "id": "sand-sa-02", "x": 1019, "y": 420, "category": "subarea", "title": "Shop", "note": ""},
         { "id": "sand-sa-03", "x": 986, "y": 458, "category": "subarea", "title": "Employee", "note": "Beneath the arena"},

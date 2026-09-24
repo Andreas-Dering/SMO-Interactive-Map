@@ -3,5 +3,19 @@
     "width": 2048,
     "height": 2048,
     "pois": [
+        { "id": "mushroom-sa-01", "x": 1326, "y": 919, "category": "subarea", "title": "Shop", "note": ""},
+        { "id": "mushroom-sa-02", "x": 1048, "y": 614, "category": "subarea", "title": "Cookatiel", "note": ""},
+        { "id": "mushroom-sa-03", "x": 826, "y": 775, "category": "subarea", "title": "Octopus", "note": ""},
+        { "id": "mushroom-sa-04", "x": 891, "y": 1057, "category": "subarea", "title": "Knucklotec", "note": ""},
+        { "id": "mushroom-sa-05", "x": 1048, "y": 1351, "category": "subarea", "title": "Castle Door", "note": ""},
+        { "id": "mushroom-sa-06", "x": 715, "y": 1398, "category": "subarea", "title": "Well", "note": ""},
+        { "id": "mushroom-sa-07", "x": 905, "y": 1684, "category": "subarea", "title": "Torkdrift", "note": ""},
+        { "id": "mushroom-sa-08", "x": 1048, "y": 1605, "category": "subarea", "title": "Outfit", "note": ""},
+        { "id": "mushroom-sa-09", "x": 1317, "y": 1649, "category": "subarea", "title": "Rocket", "note": ""},
+        { "id": "mushroom-sa-10", "x": 1541, "y": 1185, "category": "subarea", "title": "Mechawiggler", "note": ""},
+        { "id": "mushroom-sa-11", "x": 1316, "y": 1281, "category": "subarea", "title": "Cloud Sea", "note": "Beneath the hill, open pipe with Yoshi"},
+        { "id": "mushroom-sa-12", "x": 1326, "y": 919, "category": "subarea", "title": "Dragon", "note": "Drain water, open pipe with Yoshi"},
+        { "id": "mushroom-ha-01", "x": 1048, "y": 1387, "category": "hintart", "title": "Cap Kingdom Hint Art", "note": "Inside Peach Castle"},
+        { "id": "mushroom-mn-01", "x": 1390, "y": 1329, "category": "moon", "title": "Dark Side Hint Art Moon", "note": ""}
     ]
 }

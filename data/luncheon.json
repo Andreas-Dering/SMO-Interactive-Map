@@ -3,5 +3,18 @@
     "width": 2048,
     "height": 2048,
     "pois": [
+        { "id": "luncheon-sa-01", "x": 600, "y": 812, "category": "subarea", "title": "Magma Swamp", "note": ""},
+        { "id": "luncheon-sa-02", "x": 569, "y": 1172, "category": "subarea", "title": "Slots", "note": ""},
+        { "id": "luncheon-sa-03", "x": 746, "y": 1148, "category": "subarea", "title": "Outfit", "note": ""},
+        { "id": "luncheon-sa-04", "x": 794, "y": 1148, "category": "subarea", "title": "Shop", "note": ""},
+        { "id": "luncheon-sa-05", "x": 1119, "y": 1008, "category": "subarea", "title": "Forks", "note": ""},
+        { "id": "luncheon-sa-06", "x": 1231, "y": 1221, "category": "subarea", "title": "Cheese Rocks", "note": ""},
+        { "id": "luncheon-sa-07", "x": 1062, "y": 1617, "category": "subarea", "title": "Magma Path", "note": ""},
+        { "id": "luncheon-sa-08", "x": 1357, "y": 1727, "category": "subarea", "title": "Spinning Athletics", "note": ""},
+        { "id": "luncheon-sa-09", "x": 1017, "y": 1649, "category": "subarea", "title": "Gears", "note": ""},
+        { "id": "luncheon-sa-10", "x": 300, "y": 1162, "category": "subarea", "title": "Volcano Cave", "note": ""},
+        { "id": "luncheon-sa-11", "x": 742, "y": 366, "category": "subarea", "title": "Lava Islands", "note": ""},
+        { "id": "luncheon-sa-12", "x": 1075, "y": 1445, "category": "subarea", "title": "Veggie Room", "note": ""},
+        { "id": "luncheon-mn-01", "x": 805, "y": 1033, "category": "moon", "title": "Dark Side Hint Art Moon", "note": ""}
     ]
 }

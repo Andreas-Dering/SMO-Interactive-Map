@@ -3,5 +3,15 @@
     "width": 2048,
     "height": 2048,
     "pois": [
+        { "id": "bowsers-sa-01", "x": 765, "y": 1198, "category": "subarea", "title": "Shop", "note": ""},
+        { "id": "bowsers-sa-02", "x": 765, "y": 1230, "category": "subarea", "title": "Outfit", "note": ""},
+        { "id": "bowsers-sa-03", "x": 1216, "y": 1588, "category": "subarea", "title": "Hexagon Tower", "note": "Moon Pipe"},
+        { "id": "bowsers-sa-04", "x": 1556, "y": 1244, "category": "subarea", "title": "Wooden Tower", "note": "Moon Pipe"},
+        { "id": "bowsers-sa-05", "x": 1739, "y": 1843, "category": "subarea", "title": "Jizo", "note": ""},
+        { "id": "bowsers-sa-06", "x": 1404, "y": 1572, "category": "subarea", "title": "Spinning Tower", "note": ""},
+        { "id": "bowsers-sa-07", "x": 1385, "y": 1584, "category": "subarea", "title": "Vine Clouds", "note": ""},
+        { "id": "bowsers-sa-08", "x": 1470, "y": 1479, "category": "subarea", "title": "Treasure Room", "note": ""},
+        { "id": "bowsers-ha-01", "x": 1298, "y": 1406, "category": "subarea", "title": "Sand Kingdom Hint Art", "note": "Behind the wall"},
+        { "id": "bowsers-mn-01", "x": 789, "y": 1195, "category": "moon", "title": "Sand Kingdom Hint Art Moon", "note": "Ground pound the 3rd stone slab from the checkpoint"}
     ]
 }

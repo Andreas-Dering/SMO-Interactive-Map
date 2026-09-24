@@ -7,7 +7,7 @@
         { "id": "moon-sa-02", "x": 1245, "y": 369, "category": "subarea", "title": "Shop", "note": ""},
         { "id": "moon-sa-03", "x": 1075, "y": 289, "category": "subarea", "title": "Swings", "note": "Moon Pipe"},
         { "id": "moon-sa-04", "x": 947, "y": 1359, "category": "subarea", "title": "Sphinx", "note": ""},
-        { "id": "moon-mn-01", "x": 1345, "y": 140, "category": "moon", "title": "Cap Kingdom Hint Art", "note": "Ground pound between the robo and the woman"},
+        { "id": "moon-mn-01", "x": 1345, "y": 140, "category": "moon", "title": "Cap Kingdom Hint Art Moon", "note": "Ground pound between the robo and the woman"},
         { "id": "moon-ha-01", "x": 881, "y": 1729, "category": "hintart", "title": "Wooded Kingdom Hint Art", "note": "Inside the chapel on the right side"}
     ]
 }
