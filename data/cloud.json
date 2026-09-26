@@ -4,7 +4,7 @@
     "height": 2048,
     "pois": [
         { "id": "cloud-sa-01", "x": 834, "y": 704, "category": "subarea", "title": "2D Cube", "note": "Moon Pipe"},
-        { "id": "cap-sa-04", "x": 1025, "y": 895, "category": "subarea", "title": "Picture Match", "note": ""},
-        { "id": "cap-mn-01", "x": 834, "y": 1088, "category": "moon", "title": "Dark Side Hint Art Moon", "note": "Ground pound"}
+        { "id": "cloud-sa-02", "x": 1025, "y": 895, "category": "subarea", "title": "Picture Match", "note": ""},
+        { "id": "cloud-mn-01", "x": 834, "y": 1088, "category": "moon", "title": "Dark Side Hint Art Moon", "note": "Ground pound"}
     ]
 }
