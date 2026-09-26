@@ -3,6 +3,19 @@
     "width": 2048,
     "height": 2048,
     "pois": [
-        
+        { "id": "wooded-sa-01", "x": 379, "y": 402, "category": "subarea", "title": "Deep Woods", "note": "Fall down anywhere in the striped area"},
+        { "id": "wooded-sa-02", "x": 932, "y": 1166, "category": "subarea", "title": "Flooded Pipes", "note": ""},
+        { "id": "wooded-sa-03", "x": 1045, "y": 1195, "category": "subarea", "title": "Breakdown", "note": "Moon Pipe"},
+        { "id": "wooded-sa-04", "x": 1180, "y": 1380, "category": "subarea", "title": "Invisible", "note": "Moon Pipe"},
+        { "id": "wooded-sa-05", "x": 1294, "y": 1083, "category": "subarea", "title": "Treasure Room", "note": "Jump down at the side from the Map, across the spinning wheels"},
+        { "id": "wooded-sa-06", "x": 1230, "y": 953, "category": "subarea", "title": "Vine Clouds", "note": "Take a nut to the top"},
+        { "id": "wooded-sa-07", "x": 1275, "y": 971, "category": "subarea", "title": "Flower Road", "note": "Take the pathway on the right at the bottom of the ramp, walljump up the wall"},
+        { "id": "wooded-sa-08", "x": 1324, "y": 946, "category": "subarea", "title": "Tank", "note": "Using a speed flower run up the ramp all the way to the top on the right side"},
+        { "id": "wooded-sa-09", "x": 823, "y": 756, "category": "subarea", "title": "Sheep", "note": "Moon Pipe"},
+        { "id": "wooded-sa-10", "x": 668, "y": 1053, "category": "subarea", "title": "Rocket", "note": ""},
+        { "id": "wooded-sa-11", "x": 316, "y": 402, "category": "subarea", "title": "DW Outfit", "note": "When facing down the slope, on the left side near the top, behind the waterfall, to the left of pick a pipe moon"},
+        { "id": "wooded-sa-12", "x": 379, "y": 468, "category": "subarea", "title": "DW Treasure", "note": "Green pipe inside the tree, on the right side when facing downward the slop"},
+        { "id": "wooded-mn-01", "x": 1100, "y": 1242, "category": "moon", "title": "Moon Kingdom Hint Art Moon", "note": "Next to the capless fire bro area"},
+        { "id": "wooded-ha-01", "x": 649, "y": 222, "category": "hintart", "title": "Sand Kingdom Hint Art", "note": ""}
     ]
 }

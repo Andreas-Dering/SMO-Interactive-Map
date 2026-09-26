@@ -3,6 +3,23 @@
     "width": 2048,
     "height": 2048,
     "pois": [
-        
+        { "id": "metro-sa-01", "x": 866, "y": 967, "category": "subarea", "title": "Purple Shop", "note": ""},
+        { "id": "metro-sa-02", "x": 891, "y": 967, "category": "subarea", "title": "Yellow Shop", "note": ""},
+        { "id": "metro-sa-03", "x": 841, "y": 832, "category": "subarea", "title": "RC Car", "note": ""},
+        { "id": "metro-sa-04", "x": 694, "y": 1632, "category": "subarea", "title": "People", "note": ""},
+        { "id": "metro-sa-05", "x": 841, "y": 1439, "category": "subarea", "title": "Dino", "note": ""},
+        { "id": "metro-sa-06", "x": 250, "y": 1682, "category": "subarea", "title": "Rocket", "note": ""},
+        { "id": "metro-sa-07", "x": 890, "y": 1168, "category": "subarea", "title": "Scooter", "note": "Moon Pipe"},
+        { "id": "metro-sa-08", "x": 1157, "y": 1245, "category": "subarea", "title": "Scaffolding", "note": "Moon Pipe"},
+        { "id": "metro-sa-09", "x": 1227, "y": 1178, "category": "subarea", "title": "Bullet Billding", "note": ""},
+        { "id": "metro-sa-10", "x": 1039, "y": 1078, "category": "subarea", "title": "Taxi", "note": ""},
+        { "id": "metro-sa-11", "x": 959, "y": 1100, "category": "subarea", "title": "Notes", "note": ""},
+        { "id": "metro-sa-12", "x": 690, "y": 1329, "category": "subarea", "title": "Slots", "note": ""},
+        { "id": "metro-sa-13", "x": 785, "y": 1600, "category": "subarea", "title": "Outfit", "note": ""},
+        { "id": "metro-sa-14", "x": 765, "y": 1400, "category": "subarea", "title": "2D", "note": ""},
+        { "id": "metro-sa-15", "x": 735, "y": 924, "category": "subarea", "title": "Rotating Maze", "note": "Down the manhole"},
+        { "id": "metro-sa-16", "x": 1115, "y": 1734, "category": "subarea", "title": "Dark", "note": "Moon Pipe on the right side of the building, on metal floor"},
+        { "id": "metro-ha-01", "x": 866, "y": 1428, "category": "hintart", "title": "Lake Kingdom Hint Art", "note": "Towards the top of the building"},
+        { "id": "metro-mn-01", "x": 1231, "y": 1707, "category": "moon", "title": "Dark Side Hint Art Moon", "note": "Next to the checkpoint, ground pound above the yellow striped area"}
     ]
 }
