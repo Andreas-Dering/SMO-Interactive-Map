@@ -14,7 +14,7 @@
         { "id": "mushroom-sa-09", "x": 1317, "y": 1649, "category": "subarea", "title": "Rocket", "note": ""},
         { "id": "mushroom-sa-10", "x": 1541, "y": 1185, "category": "subarea", "title": "Mechawiggler", "note": ""},
         { "id": "mushroom-sa-11", "x": 1316, "y": 1281, "category": "subarea", "title": "Cloud Sea", "note": "Beneath the hill, open pipe with Yoshi"},
-        { "id": "mushroom-sa-12", "x": 1326, "y": 919, "category": "subarea", "title": "Dragon", "note": "Drain water, open pipe with Yoshi"},
+        { "id": "mushroom-sa-12", "x": 1137, "y": 1408, "category": "subarea", "title": "Dragon", "note": "Drain water, open pipe with Yoshi"},
         { "id": "mushroom-ha-01", "x": 1048, "y": 1387, "category": "hintart", "title": "Cap Kingdom Hint Art", "note": "Inside Peach Castle"},
         { "id": "mushroom-mn-01", "x": 1390, "y": 1329, "category": "moon", "title": "Dark Side Hint Art Moon", "note": ""}
     ]
