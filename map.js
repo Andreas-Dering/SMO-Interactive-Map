@@ -1,4 +1,4 @@
-const map = L.map('map', {crs: L.CRS.Simple, minZoom: -1, maxZoom: 1, zoomControl: false, zoomSnap: 0.25 });
+const map = L.map('map', {crs: L.CRS.Simple, minZoom: -1, maxZoom: 1, zoomControl: false, zoomSnap: 0.25, attributionControl: false });
 const markerLayer = L.layerGroup().addTo(map);
 let overlay = null;
 let kingdoms = [];
