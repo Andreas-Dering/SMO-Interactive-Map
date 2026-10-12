@@ -4,7 +4,7 @@
     "height": 2048,
     "pois": [
         { "id": "lost-sa-01", "x": 1348, "y": 702, "category": "subarea", "title": "Wiggler", "note": "Moon Pipe"},
-        { "id": "lost-sa-02", "x": 883, "y": 1064, "category": "subarea", "title": "Clepto", "note": "On top of the tower"},
+        { "id": "lost-sa-02", "x": 883, "y": 1064, "category": "subarea", "title": "Clepto", "note": "Moon Pipe"},
         { "id": "lost-sa-03", "x": 763, "y": 1036, "category": "subarea", "title": "Shop", "note": ""},
         { "id": "lost-mn-01", "x": 842, "y": 1187, "category": "moon", "title": "Snow Kingdom Hint Art Moon", "note": "Ground pound the tree stump at the bottom of the kingdom"},        
         { "id": "lost-mn-02", "x": 1308, "y": 888, "category": "moon", "title": "Dark Side Hint Art Moon", "note": "Ground pound in the middle between the dark green patches"}

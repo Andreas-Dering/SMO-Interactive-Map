@@ -6,7 +6,7 @@
         { "id": "seaside-sa-01", "x": 934, "y": 376, "category": "subarea", "title": "Rumble", "note": ""},
         { "id": "seaside-sa-02", "x": 620, "y": 472, "category": "subarea", "title": "Rocket", "note": ""},
         { "id": "seaside-sa-03", "x": 519, "y": 481, "category": "subarea", "title": "Outfit", "note": ""},
-        { "id": "seaside-sa-04", "x": 325, "y": 376, "category": "subarea", "title": "Gushen", "note": "Use a gushen to get up the hidden area behin the wall"},
+        { "id": "seaside-sa-04", "x": 325, "y": 376, "category": "subarea", "title": "Gushen", "note": "Use a gushen to get up the hidden area behind the wall"},
         { "id": "seaside-sa-05", "x": 323, "y": 1234, "category": "subarea", "title": "Spinning Maze", "note": "Moon Pipe"},
         { "id": "seaside-sa-06", "x": 407, "y": 1229, "category": "subarea", "title": "Sandy Bottom", "note": "Under water beneath the sand bridge"},
         { "id": "seaside-sa-07", "x": 474, "y": 1433, "category": "subarea", "title": "Well Enter", "note": ""},

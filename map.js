@@ -61,6 +61,8 @@ async function showKingdom(entry) {
 }
 
 function drawPoi(poi, k) {
+    if(poi.category === "hintart") return;
+    
     const marker = L.marker([poi.y, poi.x], { icon: icons[poi.category] });
     let html = `<b>${poi.title}</b><p>${poi.note}</p>`;
     marker.bindPopup(html);

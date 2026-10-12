@@ -4,7 +4,7 @@
     "height": 2048,
     "pois": [
         { "id": "ruined-sa-01", "x": 1220, "y": 191, "category": "subarea", "title": "Charging Chuck", "note": "Moon Pipe"},
-        { "id": "ruined-sa-02", "x": 731, "y": 1667, "category": "subarea", "title": "Rocket", "note": "On top of the tower"},
+        { "id": "ruined-sa-02", "x": 731, "y": 1667, "category": "subarea", "title": "Rocket", "note": ""},
         { "id": "ruined-mn-01", "x": 1323, "y": 215, "category": "moon", "title": "Dark Side Hint Art Moon", "note": ""}
     ]
 }
